@@ -1,0 +1,42 @@
+{
+  "coord": {
+    "lon": 9.18,
+    "lat": 48.78
+  },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 12,
+    "pressure": 1016,
+    "humidity": 81,
+    "temp_min": 12,
+    "temp_max": 12
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 4.6,
+    "deg": 290
+  },
+  "clouds": {
+    "all": 75
+  },
+  "dt": 1508610000,
+  "sys": {
+    "type": 1,
+    "id": 4891,
+    "message": 0.0054,
+    "country": "DE",
+    "sunrise": 1508565240,
+    "sunset": 1508602842
+  },
+  "id": 2825297,
+  "name": "Stuttgart",
+  "cod": 200
+}

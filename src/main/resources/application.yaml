@@ -1,0 +1,18 @@
+application:
+  weatherApi:
+    baseUrl: http://api.openweathermap.org/data/2.5
+    apiKey: 7de8dcc1b2191cba5d5699639658619a
+    units: metric
+    cityNameUrl: /weather?q={city},{country}&APPID={key}&units={metric}
+    coordinatesUrl: /weather?lat={lat}&lon={lon}&APPID={key}&units={metric}
+  swagger:
+    default-include-pattern: /api/.*
+    title: standalone API
+    description: standalone API documentation
+    version: 0.0.1
+    terms-of-service-url:
+    contact-name:
+    contact-url:
+    contact-email:
+    license:
+    license-url:
